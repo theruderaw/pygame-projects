@@ -1,2 +1,3 @@
 # pygame-projects
-Some games I made in a 3 hour time restriction
+
+Programs made by me in 1-3 hour tiem restrictions. The games are simple, but robust in most cases.
